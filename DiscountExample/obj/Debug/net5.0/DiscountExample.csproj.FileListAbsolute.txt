@@ -1,0 +1,16 @@
+C:\Users\cuong\source\repos\DiscountExample\DiscountExample\bin\Debug\net5.0\DiscountExample.exe
+C:\Users\cuong\source\repos\DiscountExample\DiscountExample\bin\Debug\net5.0\DiscountExample.deps.json
+C:\Users\cuong\source\repos\DiscountExample\DiscountExample\bin\Debug\net5.0\DiscountExample.runtimeconfig.json
+C:\Users\cuong\source\repos\DiscountExample\DiscountExample\bin\Debug\net5.0\DiscountExample.runtimeconfig.dev.json
+C:\Users\cuong\source\repos\DiscountExample\DiscountExample\bin\Debug\net5.0\DiscountExample.dll
+C:\Users\cuong\source\repos\DiscountExample\DiscountExample\bin\Debug\net5.0\ref\DiscountExample.dll
+C:\Users\cuong\source\repos\DiscountExample\DiscountExample\bin\Debug\net5.0\DiscountExample.pdb
+C:\Users\cuong\source\repos\DiscountExample\DiscountExample\obj\Debug\net5.0\DiscountExample.csproj.AssemblyReference.cache
+C:\Users\cuong\source\repos\DiscountExample\DiscountExample\obj\Debug\net5.0\DiscountExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuong\source\repos\DiscountExample\DiscountExample\obj\Debug\net5.0\DiscountExample.AssemblyInfoInputs.cache
+C:\Users\cuong\source\repos\DiscountExample\DiscountExample\obj\Debug\net5.0\DiscountExample.AssemblyInfo.cs
+C:\Users\cuong\source\repos\DiscountExample\DiscountExample\obj\Debug\net5.0\DiscountExample.csproj.CoreCompileInputs.cache
+C:\Users\cuong\source\repos\DiscountExample\DiscountExample\obj\Debug\net5.0\DiscountExample.dll
+C:\Users\cuong\source\repos\DiscountExample\DiscountExample\obj\Debug\net5.0\ref\DiscountExample.dll
+C:\Users\cuong\source\repos\DiscountExample\DiscountExample\obj\Debug\net5.0\DiscountExample.pdb
+C:\Users\cuong\source\repos\DiscountExample\DiscountExample\obj\Debug\net5.0\DiscountExample.genruntimeconfig.cache
